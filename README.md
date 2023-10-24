@@ -4,7 +4,7 @@ This GitHub repository contains an analysis of drive-through times for Restauran
 
 ## Contents
 
-- **Datasets**: This repository includes two datasets, one for Restaurant X and another for Restaurant Y. These datasets contain drive-through service time data.
+- **Datasets**: This repository includes two datasets, one for Restaurant X and another for Restaurant Y. These datasets contain drive-through service time data. These datasets contain randomly generated data.
 
 - **Code File**: The code file (drive_times_analysis.ipynb) contains the complete analysis of the drive-through times for both restaurants. It includes data processing, summary statistics calculation, data visualization, and confidence interval calculation.
 
